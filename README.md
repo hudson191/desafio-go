@@ -2,6 +2,6 @@
 
 Este repositório fornece a imagem [hudsonvonzuben/codeducation](https://hub.docker.com/r/hudsonvonzuben/codeducation).
 
-### Usage
+### Uso
 
     docekr run --rm hudsonvonzuben/codeducation
