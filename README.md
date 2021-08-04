@@ -2,5 +2,4 @@
 
 ### Usage
 
-
-docekr run --rm hudsonvonzuben/codeducation
+    docekr run --rm hudsonvonzuben/codeducation
